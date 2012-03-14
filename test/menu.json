@@ -1,0 +1,28 @@
+{
+    "success":true,
+    "items":[
+        {
+            "id":"id-menu",
+            "icon":"Alarme",
+            "label":"Alarme",
+            "event":{
+                "type":"click",
+                "handler":"criarAlerta"
+            }
+        },
+
+        {
+            "id":"id-menu2",
+            "href":"http://www.google.com.br",
+            "tooltip":"Teste de tooltip",
+            "icon":"Clock",
+            "label":"Horas"
+        },
+        {
+            "id":"id-menu",
+            "href":"http://www.google.com.br",
+            "icon":"Alarme",
+            "label":"Alarme"
+        }
+    ]
+}
